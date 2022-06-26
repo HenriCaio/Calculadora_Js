@@ -1,5 +1,5 @@
 # Calculadora_Js
-Calculadora simples feitas utilizando apenas JavaScript
+Calculadora simples feita utilizando apenas JavaScript
 
 ## 🚀 Tecnologias
 
