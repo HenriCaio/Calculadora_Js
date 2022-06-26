@@ -1,2 +1,9 @@
 # Calculadora_Js
-calculadora simples feitas utilizando apenas JavaScript
+Calculadora simples feitas utilizando apenas JavaScript
+
+## 🚀 Tecnologias
+
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- JavaScript
+
